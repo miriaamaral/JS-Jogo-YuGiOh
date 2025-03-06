@@ -26,13 +26,41 @@ Se você também é fã de Yu-Gi-Oh! e quer conferir o resultado, acesse meu rep
 - **Efeitos Sonoros:** Música de fundo e efeitos sonoros durante o jogo.
 - **Interface Atraente:** Estilização moderna com feedback visual.
 
-## Como Jogar
 
-1. **Inicie o Jogo:** Ao abrir o jogo, as cartas dos jogadores serão exibidas.
-2. **Escolha sua Carta:** Passe o mouse sobre as cartas para visualizar seus detalhes. Clique na carta que deseja usar.
-3. **Duelar:** Após escolher sua carta, clique no botão para iniciar o duelo. O jogo irá comparar sua carta com a do computador.
-4. **Verifique os Resultados:** A pontuação será atualizada com base no resultado do duelo.
-5. **Reinicie o Jogo:** Após um duelo, você pode clicar em "Próximo Duelo" para jogar novamente.
+Para jogar o jogo de cartas Yu-Gi-Oh! desenvolvido no repositório, siga estes passos:
+
+### Passos para Jogar
+
+1. **Acesse o Repositório:**
+   - Visite o [repositório no GitHub](https://github.com/miriaamaral/Jogo-de-Cartas-Yu-Gi-Oh-).
+
+2. **Clone ou Baixe o Repositório:**
+   - Você pode clonar o repositório usando o Git:
+     ```bash
+     git clone https://github.com/miriaamaral/Jogo-de-Cartas-Yu-Gi-Oh-.git
+     ```
+   - Ou baixar o arquivo ZIP e extrair em sua máquina.
+
+3. **Abra o Jogo:**
+   - Navegue até a pasta do projeto e abra o arquivo `index.html` em um navegador web.
+
+4. **Iniciar o Jogo:**
+   - Ao abrir o jogo, você verá a interface inicial. Clique no botão para iniciar um novo duelo.
+
+5. **Escolha suas Cartas:**
+   - O jogo apresentará cartas para você e o computador. Clique nas cartas para selecioná-las.
+
+6. **Duelos:**
+   - As cartas serão comparadas, e o jogo determinará o vencedor com base nas regras definidas.
+
+7. **Reiniciar:**
+   - Após cada duelo, você pode clicar em um botão para reiniciar o jogo e jogar novamente.
+
+### Dicas
+- Preste atenção aos efeitos das cartas, que podem influenciar o resultado do duelo.
+- Experimente diferentes estratégias para vencer o computador.
+
+Divirta-se jogando!
 
 ## Contribuições
 
