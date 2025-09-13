@@ -36,7 +36,7 @@ Essa experiência reforça que a combinação de estudo prático, busca ativa po
 ### **🎥 Veja o Projeto em Ação!**
 
 Prepare-se para o duelo! Clique aqui para jogar o Yu-Gi-Oh! no seu navegador!
-[**Link para a Demo Online (Netlify, Vercel ou GitHub Pages)**](https://[SEU_LINK_DE_DEMO_AQUI].com)
+[**https://miriaamaral.github.io/JS-Jogo-YuGiOh/**](https://miriaamaral.github.io/JS-Jogo-YuGiOh/)
 
 
 ---
@@ -84,7 +84,7 @@ Vamos juntos nessa jornada de aprendizado e diversão! 🚀💻
 
 ### **📝 Licença:**
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT.
 
 ---
 
