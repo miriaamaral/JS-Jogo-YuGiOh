@@ -99,7 +99,3 @@ Gostou do duelo, tem ideias para o jogo, ou quer trocar uma ideia sobre JavaScri
 Vamos juntos construir o futuro da tecnologia (e vencer muitos duelos)! ✨
 
 ---
-
-#### **Tópicos (Tags) para este Repositório:**
-
-`JavaScript HTML CSS Frontend
